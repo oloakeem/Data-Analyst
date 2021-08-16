@@ -18,7 +18,7 @@ Did a quick project just to refresh my memory on Tableau. I found a dataset that
 
 <!-- Findings -->
 ## Visuals
-[![ss][product-screenshot]]
+[![ss][v1-screenshot]]
 
 
 
